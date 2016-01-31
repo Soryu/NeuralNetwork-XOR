@@ -20,7 +20,7 @@ let MAX_ITERATIONS = 130000
 
 //# setting this too low makes everything change very slowly, but too high
 //# makes it jump at each and every example and oscillate. I found .5 to be good
-let LEARNING_RATE = 0.2
+let LEARNING_RATE = 0.5
 
 print("Neural Network Program")
 
